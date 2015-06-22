@@ -1,0 +1,35 @@
+<http://gtalug.org/meeting/2015-07/>
+
+# July 2015
+
+GTALUG is currently looking for speakers for our July 2015 meeting. If you are interested in speaking please contact our <speaker-coordinator@gtalug.org>.
+
+## Location
+
+George Vari Engineering and Computing Centre
+245 Church Street, Room 203
+Ryerson University
+
+<http://goo.gl/maps/16oJ2>
+
+<http://www.openstreetmap.org/way/23447525>
+
+## Schedule
+
+* 6:00 pm - Before each meeting a group of GTALUGers dine at Love At First Bite (96 Gerrard Street E).
+* 7:30 pm - Meeting and presentation.
+* 9:00 pm - After each meeting a group of GTALUGers move to the The Imperial Pub (54 Dundas St East) for refreshments and more socializing.
+
+# Code of Conduct
+
+We want a productive happy community that can welcome new ideas, improve every process every year, and foster collaboration between individuals with differing needs, interests and skills.
+
+We gain strength from diversity, and actively seek participation from those who enhance it. This code of conduct exists to ensure that diverse groups collaborate to mutual advantage and enjoyment. We will challenge prejudice that could jeopardize the participation of any person in the community.
+
+The Code of Conduct governs how we behave in public or in private whenever the Linux community will be judged by our actions. We expect it to be honored by everyone who represents the community officially or informally, claims affiliation, or participates directly. It applies to activities online or offline.
+
+We invite anybody to participate. Our community is open.
+
+Please read more about the GTALUG Code of Conduct here: <http://gtalug.org/about/code-of-conduct/>.
+
+If you have any questions, comments, or concerns about the GTALUG Code of Conduct please contact the GTALUG Board @ <board@gtalug.org>.

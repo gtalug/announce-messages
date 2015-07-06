@@ -1,8 +1,10 @@
 <http://gtalug.org/meeting/2015-07/>
 
-# July 2015
+# Puppet with David Thornton
 
-GTALUG is currently looking for speakers for our July 2015 meeting. If you are interested in speaking please contact our <speaker-coordinator@gtalug.org>.
+Puppet is a tool for doing configuration management. This talk will go over what puppet is, what it can do, and how to do it. There is more than one way to do it, some lessons have been learned in the field and from the community.
+
+The talk will be based on Alessandro Franceschi's fine <http://www.example42.com/tutorials/PuppetTutorial/>. Not all slides will be discussed (developer oriented slides will be skipped), and some topics not mentioned in the URL will be added (work flow topics). David intend for this talk to be a dialog and support "engaged" learning, feel free to interrupt.
 
 ## Location
 

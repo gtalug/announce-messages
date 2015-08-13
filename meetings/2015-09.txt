@@ -1,4 +1,4 @@
-<http://gtalug.org/meeting/2015-08/>
+<http://gtalug.org/meeting/2015-09/>
 
 # Samba Progress Over the Last Six Years with William Murrithy
 
@@ -16,7 +16,7 @@ Ryerson University
 
 ## Schedule
 
-* 6:00 pm - Vote for where we should dine before the meeting here: <http://survey.gtalug.org/index.php/642325>.
+* 6:00 pm - Vote for where we should dine before the meeting here: <http://survey.gtalug.org/index.php/437662>.
 * 7:30 pm - Meeting and presentation.
 * 9:00 pm - After each meeting a group of GTALUGers move to the The Imperial Pub (54 Dundas St East) for refreshments and more socializing.
 

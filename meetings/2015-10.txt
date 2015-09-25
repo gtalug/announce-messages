@@ -1,8 +1,16 @@
-<http://gtalug.org/meeting/2015-09/>
+<http://gtalug.org/meeting/2015-10/>
 
-# Samba Progress Over the Last Six Years with William Murrithy
+# AGM and Linux on Enterprise 64-bit ARM Platforms
 
-The talk is a continuation of William's previous talk on Samba in 2009. It looks at how close samba has closed the gap between AD and samba with samba 4, what's still left, packaging/deployment improvements and a demo of the samba deployment and and management.
+### Annual General Meeting
+
+* **GTALUG Update** - 5 minutes
+* **Treasury Update** - 5 minutes
+* **Board Elections** - 20 minutes
+
+### Linux on Enterprise 64-bit ARM Platforms _with Chris Tyler_
+
+A new architecture has arrived! 64-bit ARM promises high-performance, low-energy, extremely dense server computing systems. This is the first time in the history of computing that a major architecture has launched with Linux as the premier operating system. This talk will discuss the hard challenges presented by the Aarch64 architecture and the opportunities it creates.
 
 ## Location
 
@@ -16,7 +24,7 @@ Ryerson University
 
 ## Schedule
 
-* 6:00 pm - Before each meeting a group of GTALUGers dine at a different restaurant every month, this month we are going to Kaiju (384 Yonge St, Unit 51 downstairs in the food court) <http://www.kaijutoronto.com/>.
+* 6:00 pm - Please discuss on the general mailing list (i.e. <talk@gtalug.org>) where you want to go for dinner.
 * 7:30 pm - Meeting and presentation.
 * 9:00 pm - After each meeting a group of GTALUGers move to the The Imperial Pub (54 Dundas St East) for refreshments and more socializing.
 

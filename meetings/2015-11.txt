@@ -1,0 +1,37 @@
+<http://gtalug.org/meeting/2015-11/>
+
+# Lightening Talks
+
+November's GTALUG meeting will be a bunch of audience organised short talks. If you would like to give a talk, all you have to do is write your name on a post-it and stick it on the whiteboard in the front of the room. When your talk get's picked you will have 10 minutes of uninterrupted time for you to present, then 10 minutes of audience questions/concerns.
+
+Slides are not required, but if you need them please bring a PDF copy on a USB key or email them to <speaker-coordinator@gtalug.org>.
+
+## Location
+
+George Vari Engineering and Computing Centre
+245 Church Street, Room 203
+Ryerson University
+
+<http://goo.gl/maps/16oJ2>
+
+<http://www.openstreetmap.org/way/23447525>
+
+## Schedule
+
+* 6:00 pm - Please discuss on the general mailing list (i.e. <talk@gtalug.org>) where you want to go for dinner.
+* 7:30 pm - Meeting and presentation.
+* 9:00 pm - After each meeting a group of GTALUGers move to the The Imperial Pub (54 Dundas St East) for refreshments and more socializing.
+
+# Code of Conduct
+
+We want a productive happy community that can welcome new ideas, improve every process every year, and foster collaboration between individuals with differing needs, interests and skills.
+
+We gain strength from diversity, and actively seek participation from those who enhance it. This code of conduct exists to ensure that diverse groups collaborate to mutual advantage and enjoyment. We will challenge prejudice that could jeopardize the participation of any person in the community.
+
+The Code of Conduct governs how we behave in public or in private whenever the Linux community will be judged by our actions. We expect it to be honored by everyone who represents the community officially or informally, claims affiliation, or participates directly. It applies to activities online or offline.
+
+We invite anybody to participate. Our community is open.
+
+Please read more about the GTALUG Code of Conduct here: <http://gtalug.org/about/code-of-conduct/>.
+
+If you have any questions, comments, or concerns about the GTALUG Code of Conduct please contact the GTALUG Board @ <board@gtalug.org>.

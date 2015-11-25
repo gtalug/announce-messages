@@ -1,8 +1,22 @@
-<http://gtalug.org/meeting/<%= meeting_date('yyyy-mm') %>/>
+<http://gtalug.org/meeting/2015-12/>
 
-# <%= meeting_title %>
+# Terminal Multiplexers and PXE Boot
 
-<%= meeting_body %>
+## Screen, Tmux, Byobu, the Secret Terminal Brains!!!
+### Christopher Browne
+
+GNU Screen has been lurking around since the 1980s, as a kind of "tiling window manager atop curses".
+
+BSD folk spawned an analogue called tmux in 2009, offering both additions and removals of functionality.
+
+Byobu offers a harmonization, and (arguably) better user experience.
+
+We'll look at some usages, use cases, and see how frequently Byobu Hollywood crashes.
+
+## Good Bye Boot Media! (or, don't copy that boot floopy)
+### Scott Sullivan
+
+A tour of how network boot/install can save you ever having to burn a DVDs or USB drive.
 
 ## Location
 

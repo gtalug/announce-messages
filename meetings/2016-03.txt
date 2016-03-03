@@ -3,7 +3,7 @@
 # systemd and What's Your Setup
 
 * systemd with **Bill Thanis**
-* What's Your Setup: A round table dicussion on what you use to get stuff done.
+* What's Your Setup: A round table discussion on what you use to get stuff done.
 
 ## Location
 

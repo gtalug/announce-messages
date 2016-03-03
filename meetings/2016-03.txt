@@ -1,8 +1,9 @@
-<http://gtalug.org/meeting/2016-01/>
+<http://gtalug.org/meeting/2016-03/>
 
-# A Journeyman's Tour of Vim with Giles Orr
+# systemd and What's Your Setup
 
-We won't be covering i-a-h-j-k-l:wq, but instead looking at a variety of commands and plugins you may not be familiar with that can make your editor even better.  This will include a discussion of neovim, colours, dealing with your vimrc, mappings, buffers and tabs, sessions, plugins, VimScript, and possibly a couple other topics.
+* systemd with **Bill Thanis**
+* What's Your Setup: A round table dicussion on what you use to get stuff done.
 
 ## Location
 
@@ -16,7 +17,7 @@ Ryerson University
 
 ## Schedule
 
-* 6:00 pm - Before each meeting a group of GTALUGers will dine at North of Brooklyn (469 Church St)
+* 6:00 pm - Please discuss on the general mailing list (i.e. <talk@gtalug.org>) where you want to go for dinner.
 * 7:30 pm - Meeting and presentation.
 * 9:00 pm - After each meeting a group of GTALUGers move to the The Imperial Pub (54 Dundas St East) for refreshments and more socializing.
 

@@ -1,8 +1,13 @@
-<http://gtalug.org/meeting/2016-01/>
+<http://gtalug.org/meeting/<%= meeting_date('yyyy-mm') %>/>
 
-# A Journeyman's Tour of Vim with Giles Orr
+# Raspberry Pi Projects and Lighting Talks
 
-We won't be covering i-a-h-j-k-l:wq, but instead looking at a variety of commands and plugins you may not be familiar with that can make your editor even better.  This will include a discussion of neovim, colours, dealing with your vimrc, mappings, buffers and tabs, sessions, plugins, VimScript, and possibly a couple other topics.
+To start off the meeting we have two ten minute talks about using the Raspberry Pi in interesting ways:
+
+* Alex Volkov's Over-Enginerring of a Flower Pot using a Raspberry Pi.
+* Mike Kalles's using a Raspberry Pi for Intrusion Detection.
+
+After Alex's and Mike's talk there will be a bunch of audience organised short talks. If you would like to give a talk, all you have to do is write your name on a post-it and stick it on the whiteboard in the front of the room. When your talk get's picked you will have five minutes of uninterrupted time for you to present, then five minutes of audience questions/concerns.
 
 ## Location
 
@@ -16,9 +21,14 @@ Ryerson University
 
 ## Schedule
 
-* 6:00 pm - Before each meeting a group of GTALUGers will dine at North of Brooklyn (469 Church St)
+* 6:00 pm - Please discuss on the general mailing list (i.e. <talk@gtalug.org>) where you want to go for dinner.
 * 7:30 pm - Meeting and presentation.
 * 9:00 pm - After each meeting a group of GTALUGers move to the The Imperial Pub (54 Dundas St East) for refreshments and more socializing.
+
+# Upcoming Meetings
+
+* 8th March: systemd with Bill Thanis and another 30 minute talk.
+* 12th April: Vector Graphics Panel with Trent, Stewart, and Myles.
 
 # Code of Conduct
 

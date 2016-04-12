@@ -1,0 +1,59 @@
+<http://gtalug.org/meeting/2016-04/>
+
+# Open Source Graphics Suite Panel
+
+Join Stewart, Trent, and Myles in discussing their practical experiences using a variety of open source graphics packages and suites.
+
+Bring your questions for our panelists!
+
+## Panelists
+
+Stewart Russell is a Linux user who should probably be kept away from admin, dev and other sharp objects. He draws mostly geometric patterns and enjoys unusual output devices such as pen plotters. He mostly works in Inkscape, but also finds graphical uses for Gimp, Darktable, QCAD, OpenSCAD, Processing, Perl, PostScript, Python, netpbm and — when all else fails — ink and gouache.
+
+Some of his work is here: <https://www.flickr.com/photos/scruss/sets/72157666420609652/>
+
+---
+
+Trent Drake is a freelance artist, with two decades experience in drawing anthropomorphic characters. A former qualitative data analyst, he continues to branch out in game design, animation, cartooning. He also directs and produces independent video productions for community organizations and YouTube.
+
+He works in Windows, using Inkscape, GIMP, and Blender.
+
+Links to content:
+
+* The Safety Prance: Lyricist, prop-builder, director: <https://www.youtube.com/watch?v=5dIu8gHkzEs>
+
+* Pixel art gallery: <https://www.weasyl.com/submissions/hiker>
+
+---
+
+Myles Braithwaite is a web developer who sometimes has to designs user interfaces. He accomplishes this by using Open Source design tools like Inkscape for icons and wireframes, Dia for structure diagrams, and GNUpaint for rough sketching. He enjoys manipulating SVG files and manipulate them with Python and CSS (he was doing it before it was in vogue). On the rare occasion he has to interact with dead trees he uses Scribus to design page layouts.
+
+## Location
+
+George Vari Engineering and Computing Centre
+245 Church Street, Room 203
+Ryerson University
+
+<http://goo.gl/maps/16oJ2>
+
+<http://www.openstreetmap.org/way/23447525>
+
+## Schedule
+
+* 6:00 pm - Please discuss on the general mailing list (i.e. <talk@gtalug.org>) where you want to go for dinner.
+* 7:30 pm - Meeting and presentation.
+* 9:00 pm - After each meeting a group of GTALUGers move to the The Imperial Pub (54 Dundas St East) for refreshments and more socializing.
+
+# Code of Conduct
+
+We want a productive happy community that can welcome new ideas, improve every process every year, and foster collaboration between individuals with differing needs, interests and skills.
+
+We gain strength from diversity, and actively seek participation from those who enhance it. This code of conduct exists to ensure that diverse groups collaborate to mutual advantage and enjoyment. We will challenge prejudice that could jeopardize the participation of any person in the community.
+
+The Code of Conduct governs how we behave in public or in private whenever the Linux community will be judged by our actions. We expect it to be honored by everyone who represents the community officially or informally, claims affiliation, or participates directly. It applies to activities online or offline.
+
+We invite anybody to participate. Our community is open.
+
+Please read more about the GTALUG Code of Conduct here: <http://gtalug.org/about/code-of-conduct/>.
+
+If you have any questions, comments, or concerns about the GTALUG Code of Conduct please contact the GTALUG Board @ <board@gtalug.org>.

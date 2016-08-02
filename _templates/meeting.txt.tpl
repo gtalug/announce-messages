@@ -1,8 +1,8 @@
-<http://gtalug.org/meeting/<%= meeting_date('yyyy-mm') %>/>
+<http://gtalug.org/meeting/{date:%Y-%m}/>
 
-# <%= meeting_title %>
+# {title}
 
-<%= meeting_body %>
+{body}
 
 ## Location
 

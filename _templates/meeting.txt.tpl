@@ -18,15 +18,15 @@ Ryerson University
 
 * 6:00 pm - Please discuss on the general mailing list (i.e. <talk@gtalug.org>) where you want to go for dinner.
 * 7:30 pm - Meeting and presentation.
-* 9:00 pm - After each meeting a group of GTALUGers move to the The Imperial Pub (54 Dundas St East) for refreshments and more socializing.
+* 9:00 pm - After each meeting, a group of GTALUGers move to The Imperial Pub (54 Dundas St East) for refreshments and more socialising.
 
 # Code of Conduct
 
 We want a productive happy community that can welcome new ideas, improve every process every year, and foster collaboration between individuals with differing needs, interests and skills.
 
-We gain strength from diversity, and actively seek participation from those who enhance it. This code of conduct exists to ensure that diverse groups collaborate to mutual advantage and enjoyment. We will challenge prejudice that could jeopardize the participation of any person in the community.
+We gain strength from diversity, and actively seek participation from those who enhance it. This code of conduct exists to ensure that diverse groups collaborate to mutual advantage and enjoyment. We will challenge prejudice that could jeopardise the participation of any person in the community.
 
-The Code of Conduct governs how we behave in public or in private whenever the Linux community will be judged by our actions. We expect it to be honored by everyone who represents the community officially or informally, claims affiliation, or participates directly. It applies to activities online or offline.
+The Code of Conduct governs how we behave in public or in private whenever the Linux community will be judged by our actions. We expect it to be honoured by everyone who represents the community officially or informally, claims affiliation or participates directly. It applies to activities online or offline.
 
 We invite anybody to participate. Our community is open.
 

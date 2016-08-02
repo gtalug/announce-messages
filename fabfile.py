@@ -61,6 +61,6 @@ def send_meeting():
     send = prompt('Everything look okay?', validate=r'(yes|no)')
 
     if send == 'yes':
-        s = smtplib.SMTP('penguin.gtalug.org')
+        s = smtplib.SMTP('127.0.0.1')
         s.sendmail(email_from, [email_to], msg.as_string())
         s.quit()

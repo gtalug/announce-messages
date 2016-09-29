@@ -1,10 +1,18 @@
 <http://gtalug.org/meeting/2016-10/>
 
-# Ansible with Myles Braithwaite
+### Annual General Meeting (7:30 p.m.)
 
-Orchestrate your infustrature with Ansible like Gustav Mahler.
+* GTALUG Update - 5 minutes
+* Treasury Update - 5 minutes
+* Board Elections - 15 minutes
 
-Ansible is an open source configuration management and provisioning tool (similar to Chef and Puppet).
+### Ansible (8:00 p.m.)
+
+Ansible allows you to turn your infrastructure administration into a codebase. Descripting all the processes that are necessary for deploying a server with a set of provisioning scrips that can be stored in version control.
+
+Myles Braithwaite will be giving an overview of deploy and configure your infrastructure with Ansible.
+
+Alex Volkov wil be going over running Vagrant as test environment, setting free as in speech LXC and KVM hypervisors with Vagrant, notes on getting from bare hardware running with Debian automated install, and a few wrong Ansible commands.
 
 ## Location
 

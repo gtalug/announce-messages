@@ -1,10 +1,16 @@
-<http://gtalug.org/meeting/2016-11/>
+<https://gtalug.org/meeting/2016-12/>
 
-# AGM and Ansible
+# Thirteen Hours of Go with David Collier-Brown
 
-====
-REPLACE
-====
+Trying out a new language by:
+
+- writing things based on cool or elegant stuff in it,
+- rewriting something you know in it, and
+- writing something that was hard elsewhere in it.
+
+And yes, it's indeed a cool language.
+
+Presentation File: <https://gtalug.org/static/uploads/meetings/2016-11/thirteen-talk.odp>
 
 ## Location
 

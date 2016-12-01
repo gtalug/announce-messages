@@ -1,6 +1,6 @@
 <http://gtalug.org/meeting/2016-12/>
 
-# Exposing High Level InnoDB Mechanics via Tunable System Variables in MySQL with TODO
+# Exposing High Level InnoDB Mechanics via Tunable System Variables in MySQL with Peter Sylvester
 
 In this discussion we will have a look at the InnoDB related system server variables in MySQL 5.6 as a way to learn more about the high level mechanics of InnoDB, the most popular storage engine for MySQL. This talk with cover the most popular variables that cover how InnoDB works with memory, I/O, concurrency, consistency, and statistics handling. This topic will be presented by Peter Sylvester, Principal MySQL Consultant for Pythian.
 

@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 from dateutil.rrule import rrule, MONTHLY, TU
 from dateutil.parser import parse as dateutil_parse
 
-from fabric.api import task, prompt
+from fabric.api import task, prompt, local
 from fabric.utils import abort, fastprint
 
 
@@ -43,6 +43,8 @@ def send_meeting():
     email_to = 'announce@gtalug.org'
 
     filepath = 'meetings/{0}.txt'.format(date)
+
+    local('git pull')
 
     if not os.path.isfile(filepath):
         return abort('There is no meeting at that date.')

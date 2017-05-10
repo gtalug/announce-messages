@@ -1,6 +1,6 @@
 <http://gtalug.org/meeting/2017-06/>
 
-# Intelligent Availability; The evolution of High Availability with Digimer
+# Intelligent Availability; The evolution of High Availability with Madison Kelly
 
 Madison will discuss the tenants of and concepts behind “Intelligent Availability” and how it provides “next gen” availability. The “Anvil!” platform is the first full IA platform, combining a fully redundant architecture along with the 100% open source Striker UI and ScanCore “decision engine”. A live demonstration of this platform will be used to show IA in action. Various faults will be induced, showing how the Anvil! autonomously reacts to mitigate these changing risks.
 

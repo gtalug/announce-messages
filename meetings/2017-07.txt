@@ -10,6 +10,8 @@ Schedule Five Minute Talks:
 
 * How does an enterprise distro kernel get made? with Dhaval Giani
 * Dave Doyle
+* Behaviour Directed Design with David Collier Brown
+* Mastodon with Myles Braithwaite
 * Add your name to this list by emailing <hi@gtalug.org>
 
 ## Location

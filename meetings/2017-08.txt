@@ -1,6 +1,6 @@
 <http://gtalug.org/meeting/2017-08/>
 
-# The Tor Software Ecosystem with Sukhblr Signh
+# The Tor Software Ecosystem with Sukhbir Singh
 
 When people talk about Tor, they almost always think of the Tor daemon or Tor Browser. While this was true earlier, the Tor ecosystem has now expanded and includes a diverse set of applications that serve a variety of different users helping them to protect their privacy online or to circumvent Internet censorship. In this talk, we will start by introducing Tor and then briefly walk through the applications that are built around it.
 

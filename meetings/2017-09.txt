@@ -13,7 +13,7 @@ This talk pokes a bit at:
 - A bit of the crazy!  Want an xterm that simulates shakey old amber
 monitors?  You got it!
 
-*Docker* with Greg Martyn
+*Web Scraping* with Myles Braithwaite
 
 TDA
 

@@ -1,4 +1,4 @@
-<http://gtalug.org/meeting/2017-11/>
+<http://gtalug.org/meeting/2017-10/>
 
 # The State of Mozilla with Mike Hoye
 
